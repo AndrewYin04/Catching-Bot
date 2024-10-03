@@ -1,0 +1,9 @@
+[submodule "utils/robot_learning_ws"]
+	path = utils/robot_learning_ws
+	url = git@github.com:AndrewYin04/robot_learning_ws.git
+[submodule "data_collection/robosuite"]
+	path = data_collection/robosuite
+	url = git@github.com:AndrewYin04/robosuite.git
+[submodule "robomimic"]
+	path = robomimic
+	url = git@github.com:AndrewYin04/robomimic.git
